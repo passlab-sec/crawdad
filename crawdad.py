@@ -103,9 +103,10 @@ fatal = partial(error, 'Fatal:')
 irrelevant = partial(printc, 'magenta')
 
 # Print banner unless we're suppressing it.
-if not is_arg_passed('s'):
+if not is_arg_passed('q'):
     print_title_card()
 
+# Check for HTTP basic authentication flag.
 creds = None
 if is_arg_passed('h'):
     creds = get_valued_arg('h')
