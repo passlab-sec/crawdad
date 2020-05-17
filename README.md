@@ -1,6 +1,8 @@
 # Crawdad
 Password security auditing tool for login over HTTP GET or HTTP Basic Authentication. Use responsibly please.
 
+![Logo](docs/logo.svg)
+
 ## Overview
 This is a very basic utility for brute-forcing web applications that authenticate via username/password parameters passed as HTTP GET parameters or via HTTP basic authentication. This utility was originally written to audit networked devices for cross-protocol vulnerability to the password guessing attack used by the Mirai botnet worm to propagate.
 
