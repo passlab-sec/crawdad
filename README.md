@@ -71,5 +71,4 @@ tool on any network you do not personally own and adhere to applicable laws in y
 
 ## Acknowlegements
 * The Mirai attack dictionary bundled with this work was extracted from the [Mirai source code repository](https://github.com/jgamblin/Mirai-Source-Code).
-* The font used in the logo is [LCD Solid](https://www.fontspace.com/lcd-solid-font-f11346).
 * This tool is named arbitrarily after a line from the _Futurama_ episode _The Deep South_ (S2E12).
